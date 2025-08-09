@@ -2,7 +2,7 @@
   "name": "sherveen-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://SherveenMehrvarzan.github.io/Sherveen-Portfolio",
+  "homepage": "https://SherveenMehrvarzan.github.io/sherveen-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
